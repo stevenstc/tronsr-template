@@ -1,14 +1,14 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Stevene Cabrera Londoño
+Role: Director y Fundador
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: Andrea Tapasco Andica
+Role: Administradora 
 
 ## Team Member 2
 
-Name: [name]
-Role: [role]
+Name: Juan david Lopez Lopez
+Role: Director de Marketing
