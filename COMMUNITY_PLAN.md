@@ -1,1 +1,1 @@
-Describe the plan to support the community
+Para la comunidad ofrecemos la posibilidad de adquirir los token BRST que les brindara la posibilidad de tener sus tron en Staking con interes compuesto, haciendo que se puedan dejar de preocupar de estar reclamando y volviendo a congelar para votar y ganar mas recompesas, por medio de este token accedes a estos beneficios con solo tenerlo en tu wallet.
