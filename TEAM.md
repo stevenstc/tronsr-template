@@ -1,11 +1,5 @@
-## Founder
+## Manuel Montijano
 
-Stevene Cabrera Londoño
+## Vicente Pereira
 
-## Administradora 
-
-Andrea Tapasco Andica
-
-## Director de Marketing
-
-Juan david Lopez Lopez 
+## Stevene Cabrera Londoño
