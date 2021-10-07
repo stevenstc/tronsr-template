@@ -1,35 +1,35 @@
-## Director general
+## CO-FOUNDER
 
 Nombre: Manuel Montijano
 
-Rol: CEO
+Rol: CMO (Chief Marketing Officer)
 
-Below is my social media presence and website details
+Redes sociales
 
-* Twitter   :  https://twitter.com/cryptoguyinza
+* Twitter   :  https://twitter.com/BrutusToken
 * Website   :  https://www.brutustoken.com
 
-## Analista
+## CO-FOUNDER
 
 Nombre: Vicente Pereira
 
-Rol: OCF
+Rol: COO (Chief Operating Officer)
 
-Below is my social media presence and website details
+Redes sociales
 
-* Twitter   :  https://twitter.com/cryptoguyinza
-* Youtube   :  https://www.youtube.com/channel/UCWH5PPPq9nbUhFB-qxDYtgA
+* Twitter   :  https://twitter.com/NiresVicente
 * Website   :  https://www.brutustoken.com
 
 
-## Programador
+## TRON DEVELOPER
 
 Nombre: Stevene Cabrera
 
-Rol: CTO
+Rol: CTO (Chief Technology Officer)
 
-Below is my social media presence and website details
+Redes sociales
 
-* Twitter   :  https://twitter.com/cryptoguyinza
-* Youtube   :  https://www.youtube.com/channel/UCWH5PPPq9nbUhFB-qxDYtgA
+* Twitter   :  https://twitter.com/steven_Cabr
+* Youtube   :  https://www.youtube.com/channel/UCBImqITHBD_aVzAu-AL8pTw
+* GitHub    :  https://github.com/stevenstc
 * Website   :  https://www.pesodigital.ml
