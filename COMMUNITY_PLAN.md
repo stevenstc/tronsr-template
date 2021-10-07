@@ -1,1 +1,5 @@
-Para la comunidad ofrecemos la posibilidad de adquirir los token BRST que les brindara la posibilidad de tener sus tron en Staking con interes compuesto, haciendo que se puedan dejar de preocupar de estar reclamando y volviendo a congelar para votar y ganar mas recompesas, por medio de este token accedes a estos beneficios con solo tenerlo en tu wallet.
+
+Actuaremos como embajadores y catalizadores de la red Tron para la comunidad de habla hispana de europa y latino america e impulsaremos una gran cantidad de contenido a través de estos métodos:
+
+* YouTube videos – crearemos videos de la red de tron para facilitar su uso y adopción.
+* Twitter – contaremos los avances y deciciones que se toman a nivel de equipos.
