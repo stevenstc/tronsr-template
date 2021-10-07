@@ -17,7 +17,7 @@ Nos complace hacer este proyecto cada dias mas grande.
 ### BRUTUS TRON STAKING - REDES
 - [TWITTER](https://twitter.com/BrutusToken)
 - [INSTAGRAM](https://www.instagram.com/brutustoken/)
-- [WEB](https://brutustoken.com/?staking)
+- [PAGINA WEB](https://brutustoken.com/?staking)
 
 
 -----------------------------------------
@@ -35,6 +35,15 @@ Para maximizar las ganancias de nuestros inversores, buscamos dos caminos. el pr
 ### ¿Como puedo comprar BRST?
 
   - Accediendo en https://brutustoken.com/?staking con TRX por medio de tu wallet tronlink e interactuando con el contrato inteligente.
+
+### Direcciones importantes
+
+- Super Representative : [TWVVi4x2QNhRJyhqa7qrwM4aSXnXoUDDwY](https://tronscan.org/#/address/TWVVi4x2QNhRJyhqa7qrwM4aSXnXoUDDwY)
+- Token BRST : [TF8YgHqnJdWzCbUyouje3RYrdDKJYpGfB3](https://tronscan.org/#/token20/TF8YgHqnJdWzCbUyouje3RYrdDKJYpGfB3)
+- Contrato de compra : [TNGkvCofQcECQFHmuwZ1119uVK8qJYU5C4](https://tronscan.org/#/contract/TNGkvCofQcECQFHmuwZ1119uVK8qJYU5C4/transactions)
+
+
+-----------------------------------------
   
 ** El valor de BRST en su face ico fue de 1 BRST = 1 TRX, pasada la fase ico el BRST tiende a incrementarse (nunca se va a devaluar) en funcion de los beneficios que se van adquiriendo.
 
