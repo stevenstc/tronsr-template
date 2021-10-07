@@ -2,49 +2,37 @@ BRUTUS TRON STAKING revoluciona el staking de TRON creando un token cuyo valor e
 
 # Introduction
 
-Crypto Guy In South Africa (CryptoGuyInZA) is Cryptocurrency Enthusiast in South Africa providing Insight & Sharing Own Experience With Industry Leading Digital Currencies Based on Block Generation Technology.
+Tenemos un equipo multicuntural conformdado por 3 personas residentes en paises diferentes, pero que comparten su amor por las criptomonedas y especialmente en el potencial de desarrollo en èl y del universo TRON, lo conforman: 
 
-I am 34 years old and reside in South Africa, my name is Louis. I work as IT consultant and have been working in IT for over 13 years. I have exposure working with various pieces of software and can adapt as needed. I have a personal passion for Cryptos and taking this journey with the Tron community.
+Nires Vicente, COO CO-FOUNDER creador de BRUTUS BOT (el hermano mayor de BRST), un amante del trading algoritmico y RESPONSABLE de la OPERATIVA, REFERENTES en la venta peer to peer en URUGUAY y BRASIL. 
 
-I believe that most people involved in Cryptocurrencies are outside of the African continent and are large companies, I would like to be one of the first real independent ambassador for crypto in Africa and want Tron to be one of those Cryptocurrencies. I strongly believe Cryptocurrencies should be for the people and need independent people like me, I do not believe they should be centralized or be controlled by large companies. I also believe that I have excellent English which will assist to expand the Tron message into English speaking countries!
+Manuel Montijano, CMO CO-FOUNDER desarrollador de la idea de NEGOCIO y RESPONSABLE de la DISTRIBUCIÓN del TOKEN le avala una trayectoria PROFESIONAL de más de 15 años en el MUNDO de las VENTAS.
+
+Steven Cabrera, CTO TRON DEVELOPER creador del TOKEN y la WEB con la INTEGRACIÓN de TRONLINK, jovencísimo DESARROLLADOR de CONTRATOS INTELIGENTES especializado en la BLOCKCHAIN de TRON.
 
 
-### CryptoGuyInZa Details
-- TronLive campaign video https://youtu.be/4sCV0qsKaGo
-- View Tron Live campaign page for more info about CryptoGuyInZA - https://tron.live/tronsr/cryptoguyinza/
-- Tron Live Video Interview - https://youtu.be/0DjMJ1J8kp8
-- Tron Live Text Interview - https://tron.live/an-interview-with-tronsr-cryptoguyinza/
-- CryptoGuyInZA for Stable Network - https://youtu.be/MpN3Zns4LA0
-- CryptoGuyInZA for Community Driven Tron SR - https://youtu.be/MpN3Zns4LA0
-- CryptoGuyInZA Payment Engine - https://youtu.be/IS7bJ5Ykvog
+Nos complace hacer este proyecto cada dias mas grande.
+
+
+### BRUTUS TRON STAKING - REDES
+- TWITTER https://twitter.com/BrutusToken
 
 
 -----------------------------------------
 # REWARDS
 
-I offer both TRX or Token rewards. Yes you as a voter can choose which one! Yes you have options. Also the rewards is one of the most acurate and can be tracked to the most granular detail by voters
-  - I payout **everyday** around 0:08 am UTC
-  - Haven't missed a single payment
-  - **Track your weekly rewards here http://reward.cryptoguyinza.co.za/#/tron/dashboard and see the detail breakdown**
+Para maximizar las ganancias de nuestros inversores, buscamos dos caminos. el primero poner a correr un nodo a trabajar 24/7. Esforzarnos cada dia para escalar puestos como super socios de TRON, y poder de manera transparente a traves de un smart contract reinvertir el capital en TRX mas el staking reclamado de manera totalmente automatica cada 24 horas y de la misma forma distribuir ganancia entre los tenedores de BRST.
 
-### TRX Rewards
+### La distribucion de las ganancias en TRX mediante un smart contract nos brinda
 
-We are currently sharing 89%, details here
-  - 86% shared with voters
-  - 3% shared with loyal voters that remain 360 rounds. Elite group
-  - I pay out in **TRX** 
+  - Seguridad: Los fondos son administrados automaticamente.
+  - Transparencia: Todos los movimientos pueden ser auditados en la blockchain https://tronscan.org/#/token20/TF8YgHqnJdWzCbUyouje3RYrdDKJYpGfB3
+  - Rendimientos: Los mejores en staking dada la recolocaciòn automatica generando interes compuesto.
 
   
-### Token Rewards
- 
-If you hold the Token CryptoGuyInZA token with abreviation CGIZA you get 100% vote boost, yes that is 2x rewards. For every token distrubuted we have 1 trx backing it, that means the tokens minimum value is 1 trx. **Important the 2x is on the token held in your wallet**
+### Como puedo comprar BRST?
 
-So there is two ways to get the token
-- Buy on one of the dex
-- Switch TRX rewards to CGIZA Token
-   
-Find more detail on token rewards here.
-https://medium.com/@cryptoguyinza/cryptoguyinza-token-rewards-108402256b60
- 
-**Each token has a minimum value of 1 TRX, it can either be traded on the dex or switched for trx by sending to this account TCLJe8giq47DEwX9PtiSJk64LRhQMtNARf**
------------------------------------------
+  -Accediendo en https://brutustoken.com/?staking con tu tronlink e interactuando con el contrato.
+  
+** El valor de BRST en su face ico fue de 1 BRST = 1 TRX, pasada la fase ico el BRST tiende a incrementarse (nunca se va a devaluar) en funcion de los beneficios que se van adquiriendo.
+---------------------------------------
