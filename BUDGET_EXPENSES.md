@@ -1,6 +1,6 @@
 
-## 01/09/2021-01/09/2022
-Plan de ejecución 
+### 01/09/2021-01/09/2022
+## Plan de ejecución 
 
 Nota: en este primer año el equipo no recibira recompensas por su trabajo.
 * Todo el tron recaudado por la compra del token BRST sera congelado para umentar la capacidad de energia.

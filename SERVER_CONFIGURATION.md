@@ -7,4 +7,4 @@ Configuración del servidor:
 
 * 4 CORES
 * 200 GB SSD
-* 20G bandwidth
+* 20G BANDWIDTH
