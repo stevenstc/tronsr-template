@@ -23,7 +23,7 @@ I believe that most people involved in Cryptocurrencies are outside of the Afric
 # REWARDS
 
 I offer both TRX or Token rewards. Yes you as a voter can choose which one! Yes you have options. Also the rewards is one of the most acurate and can be tracked to the most granular detail by voters
-  - I payout **everyday** around 8:20 pm CAT
+  - I payout **everyday** around 0:08 am UTC
   - Haven't missed a single payment
   - **Track your weekly rewards here http://reward.cryptoguyinza.co.za/#/tron/dashboard and see the detail breakdown**
 
