@@ -1,6 +1,6 @@
-BRUTUS TRON STAKING revoluciona el staking de TRON creando un token cuyo valor en TRX crece exponencialmente aplicando interés compuesto diario a las recompensas generadas, de esta forma el token BRUTUS STAKING (BRST) se convierte en una interesante opción para todos aquellos que quieren ver crecer su HODL sin preocuparse por nada, además los poseedores del token se beneficiaran de una RENTABILIDAD SUPERIOR a la que puedan obtener mediante el staking convencionales.
+# Introducción
 
-# Introduction
+BRUTUS TRON STAKING revoluciona el staking de TRON creando un token cuyo valor en TRX crece exponencialmente aplicando interés compuesto diario a las recompensas generadas, de esta forma el token BRUTUS STAKING (BRST) se convierte en una interesante opción para todos aquellos que quieren ver crecer su HODL sin preocuparse por nada, además los poseedores del token se beneficiaran de una RENTABILIDAD SUPERIOR a la que puedan obtener mediante el staking convencionales.
 
 Tenemos un equipo multicuntural conformdado por 3 personas residentes en paises diferentes, pero que comparten su amor por las criptomonedas y especialmente en el potencial de desarrollo en èl y del universo TRON, lo conforman: 
 
@@ -19,7 +19,7 @@ Nos complace hacer este proyecto cada dias mas grande.
 
 
 -----------------------------------------
-# REWARDS
+# Recompensas
 
 Para maximizar las ganancias de nuestros inversores, buscamos dos caminos. el primero poner a correr un nodo a trabajar 24/7. Esforzarnos cada dia para escalar puestos como super socios de TRON, y poder de manera transparente a traves de un smart contract reinvertir el capital en TRX mas el staking reclamado de manera totalmente automatica cada 24 horas y de la misma forma distribuir ganancia entre los tenedores de BRST.
 
