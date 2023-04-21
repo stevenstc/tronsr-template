@@ -6,5 +6,6 @@ Ubicacion del servidor: Alemania (Dusseldorf)
 Configuración del servidor: 
 
 * 4 CORES
+* 8 GB RAM
 * 200 GB SSD
 * 20G BANDWIDTH
