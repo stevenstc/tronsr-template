@@ -23,7 +23,7 @@ Redes sociales
 
 ## TRON DEVELOPER
 
-Nombre: Stevene Cabrera
+Nombre: Steven Cabrera
 
 Rol: CTO (Chief Technology Officer)
 
