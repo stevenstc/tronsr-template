@@ -15,7 +15,7 @@ Nos complace hacer este proyecto cada dias mas grande.
 ### BRUTUS TRON STAKING - REDES
 - [TWITTER](https://twitter.com/BrutusToken)
 - [INSTAGRAM](https://www.instagram.com/brutustoken/)
-- [PAGINA WEB](https://brutustoken.com/?staking)
+- [PAGINA WEB](https://brutus.finance)
 
 -----------------------------------------
 # Recompensas
@@ -36,11 +36,13 @@ Para maximizar las ganancias de nuestros inversores, buscamos dos caminos. el pr
 
 - Super Representative : [TWVVi4x2QNhRJyhqa7qrwM4aSXnXoUDDwY](https://tronscan.org/#/address/TWVVi4x2QNhRJyhqa7qrwM4aSXnXoUDDwY)
 - Token BRST : [TF8YgHqnJdWzCbUyouje3RYrdDKJYpGfB3](https://tronscan.org/#/token20/TF8YgHqnJdWzCbUyouje3RYrdDKJYpGfB3)
-- Pool V2 : [TMzxRLeBwfhm8miqm5v2qPw3P8rVZUa3x6](https://tronscan.org/#/contract/TMzxRLeBwfhm8miqm5v2qPw3P8rVZUa3x6)
+- Pool V3 :
+
 
 #### Direcciones anteriores
 
 - Pool V1 : [TNGkvCofQcECQFHmuwZ1119uVK8qJYU5C4](https://tronscan.org/#/contract/TNGkvCofQcECQFHmuwZ1119uVK8qJYU5C4)
+- Pool V2 : [TMzxRLeBwfhm8miqm5v2qPw3P8rVZUa3x6](https://tronscan.org/#/contract/TMzxRLeBwfhm8miqm5v2qPw3P8rVZUa3x6)
 
 -----------------------------------------
   
