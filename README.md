@@ -1,5 +1,4 @@
 
-# BRUTUS TRON STAKING
+# Brutus Finance: Candidatura para Super Representante en Tron
 
-BRUTUS TRON STAKING revoluciona el staking de TRON creando un token cuyo valor en TRX crece exponencialmente aplicando interés compuesto diario a las recompensas generadas, de esta forma el token BRUTUS STAKING (BRST) se convierte en una interesante opción para todos aquellos que quieren ver crecer su HODL sin preocuparse por nada, además los poseedores del token se beneficiaran de una RENTABILIDAD SUPERIOR a la que puedan obtener mediante el staking convencionales.
-
+Brutus Finance, a través de su candidatura "Brutus_tron_staking", se postula como Super Representante en la red Tron, comprometidos con la transparencia y la representación genuina de la comunidad hispanohablante. Desarrollamos productos innovadores en Tron, como BURT, BRST, BRGY, y Brutus Energy Bot. Enfocamos nuestra estrategia en retribuir a la comunidad, distribuyendo el 100% de las recompensas generadas a nuestros votantes. Nuestro objetivo es fomentar la confianza, representar con integridad y potenciar el ecosistema de Tron.

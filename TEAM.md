@@ -1,35 +1,55 @@
 ## CO-FOUNDER
 
-Nombre: Manuel Montijano
+Name: DaLlRiUm
 
-Rol: CMO (Chief Marketing Officer)
+Rol: Product Manager
 
-Redes sociales
+Social Media
 
-* Twitter   :  https://twitter.com/BrutusToken
-* Website   :  https://www.brutustoken.com
+* Website   :  https://www.brutus.finance
+* Telegram  :  https://t.me/DaLlRiUm
 
 ## CO-FOUNDER
 
-Nombre: Vicente Pereira
+Name: NiresVicente
 
-Rol: COO (Chief Operating Officer)
+Rol: Operations Lead
 
-Redes sociales
+Social Media
 
+* Website   :  https://www.brutus.finance
+* Telegram  :  https://t.me/NiresVicente
 * Twitter   :  https://twitter.com/NiresVicente
-* Website   :  https://www.brutustoken.com
+
 
 
 ## TRON DEVELOPER
 
-Nombre: Steven Cabrera
+Name: Steven_Stc
 
-Rol: CTO (Chief Technology Officer)
+Rol: Technical Lead
 
-Redes sociales
+Social Media
 
+* Website   :  https://www.brutus.finance
+* Telegram  :  https://t.me/steven_stc
 * Twitter   :  https://twitter.com/steven_Cabr
 * Youtube   :  https://www.youtube.com/channel/UCBImqITHBD_aVzAu-AL8pTw
 * GitHub    :  https://github.com/stevenstc
 * Website   :  https://www.pesodigital.ml
+
+
+
+## ENERGY BOT DEVELOPER
+
+Name: Deiiva
+
+Rol: Technical Lead
+
+Social Media
+
+* Website   :  https://www.brutus.finance
+* Telegram  :  https://t.me/Deiiva
+* Twitter   :  https://twitter.com/Miss_Deiva
+
+

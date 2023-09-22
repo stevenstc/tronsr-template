@@ -1,49 +1,25 @@
 # Introducción
 
-BRUTUS TRON STAKING revoluciona el staking de TRON creando un token cuyo valor en TRX crece exponencialmente aplicando interés compuesto diario a las recompensas generadas, de esta forma el token BRUTUS STAKING (BRST) se convierte en una interesante opción para todos aquellos que quieren ver crecer su HODL sin preocuparse por nada, además los poseedores del token se beneficiaran de una RENTABILIDAD SUPERIOR a la que puedan obtener mediante el staking convencionales.
+"Brutus_tron_staking" es la candidatura oficial de Brutus Finance para convertirse en Super Representante en Tron. Estamos profundamente comprometidos con la visión y los valores de la blockchain y, como manifestación de este compromiso, hemos desarrollado varios productos en la red Tron, como BURT, BRST, BRGY y Brutus Energy Bot.
 
-Tenemos un equipo multicuntural conformdado por 3 personas residentes en paises diferentes, pero que comparten su amor por las criptomonedas y especialmente en el potencial de desarrollo en èl y del universo TRON, lo conforman: 
+Nuestro enfoque y ofertas se centran en:
 
-* Nires Vicente, COO CO-FOUNDER creador de BRUTUS BOT (el hermano mayor de BRST), un amante del trading algoritmico y RESPONSABLE de la OPERATIVA, REFERENTES en la venta peer to peer en URUGUAY y BRASIL. 
+Representación Genuina: Actuar como la voz confiable de la comunidad hispanohablante, garantizando que sus inquietudes y aspiraciones sean siempre una prioridad.
 
-* Manuel Montijano, CMO CO-FOUNDER desarrollador de la idea de NEGOCIO y RESPONSABLE de la DISTRIBUCIÓN del TOKEN le avala una trayectoria PROFESIONAL de más de 15 años en el MUNDO de las VENTAS.
+Infraestructura Sólida: Brindar una red Tron segura y estable, respaldando cada transacción y contrato ejecutado.
 
-* Steven Cabrera, CTO TRON DEVELOPER creador del TOKEN y la WEB con la INTEGRACIÓN de TRONLINK, jovencísimo DESARROLLADOR de CONTRATOS INTELIGENTES especializado en la BLOCKCHAIN de TRON.
+Innovación y Capacitación: Más allá de nuestros productos nativos, nos dedicamos a desarrollar soluciones que fomenten y expandan el uso de la blockchain de Tron, educando simultáneamente a nuestra comunidad sobre su potencial revolucionario.
 
-Nos complace hacer este proyecto cada dias mas grande.
+Recompensas Generosas: Repartimos el 100% de las recompensas generadas a nuestros votantes, buscando que generen la mayor rentabilidad posible y retribuyendo su confianza y apoyo en nuestro proyecto.
 
-### BRUTUS TRON STAKING - REDES
-- [TWITTER](https://twitter.com/BrutusToken)
-- [INSTAGRAM](https://www.instagram.com/brutustoken/)
+Con Brutus Finance y nuestra candidatura "Brutus_tron_staking", la comunidad hispanohablante y Tron avanzan juntos hacia un futuro descentralizado y recompensante.
+
+### BRUTUS.FINANCE - REDES
 - [PAGINA WEB](https://brutus.finance)
-
------------------------------------------
-# Recompensas
-
-Para maximizar las ganancias de nuestros inversores, buscamos dos caminos. el primero poner a correr un nodo a trabajar 24/7. Esforzarnos cada dia para escalar puestos como super socios de TRON, y poder de manera transparente a traves de un smart contract reinvertir el capital en TRX mas el staking reclamado de manera totalmente automatica cada 24 horas y de la misma forma distribuir ganancia entre los tenedores de BRST.
-
-### La distribucion de las ganancias en TRX mediante un smart contract nos brinda
-
-  - Seguridad: Los fondos son administrados automaticamente.
-  - Transparencia: Todos los movimientos pueden ser auditados en la blockchain https://tronscan.org/#/token20/TF8YgHqnJdWzCbUyouje3RYrdDKJYpGfB3
-  - Rendimientos: Los mejores en staking dada la recolocaciòn automatica generando interes compuesto.
-
-### ¿Como puedo comprar BRST?
-
-  - Accediendo en https://brutustoken.com/?staking con TRX por medio de tu wallet tronlink e interactuando con el contrato inteligente.
-
-### Direcciones importantes
-
-- Super Representative : [TWVVi4x2QNhRJyhqa7qrwM4aSXnXoUDDwY](https://tronscan.org/#/address/TWVVi4x2QNhRJyhqa7qrwM4aSXnXoUDDwY)
-- Token BRST : [TF8YgHqnJdWzCbUyouje3RYrdDKJYpGfB3](https://tronscan.org/#/token20/TF8YgHqnJdWzCbUyouje3RYrdDKJYpGfB3)
-- Pool V3 :
-
-
-#### Direcciones anteriores
-
-- Pool V1 : [TNGkvCofQcECQFHmuwZ1119uVK8qJYU5C4](https://tronscan.org/#/contract/TNGkvCofQcECQFHmuwZ1119uVK8qJYU5C4)
-- Pool V2 : [TMzxRLeBwfhm8miqm5v2qPw3P8rVZUa3x6](https://tronscan.org/#/contract/TMzxRLeBwfhm8miqm5v2qPw3P8rVZUa3x6)
-
------------------------------------------
-  
-** El valor de BRST en su face de inicio fue de 1 BRST = 1 TRX, pasada la fase ico el BRST tiende a incrementarse (tecnicamente no se va a devaluar) en funcion de los beneficios que se van adquiriendo.
+- [TWITTER](https://twitter.com/Brutusfinance)
+- [INSTAGRAM](https://www.instagram.com/brutusfinance/)
+- [FACEBOOK](https://www.facebook.com/profile.php?id=61551128592498)
+- [TIK-TOK](https://www.tiktok.com/@brutus.finance)
+- [VIMEO](https://vimeo.com/user207855702)
+- [MEDIUM](https://medium.com/@brutusfinancemarketing)
+- [WORDPRESS](Brutusfinance.wordpress.com)
