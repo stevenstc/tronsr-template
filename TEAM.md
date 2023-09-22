@@ -1,36 +1,22 @@
-## CO-FOUNDER
-
+# CO-FOUNDER
 Name: DaLlRiUm
-
 Rol: Product Manager
-
 Social Media
-
 * Website   :  https://www.brutus.finance
 * Telegram  :  https://t.me/DaLlRiUm
 
-## CO-FOUNDER
-
+# CO-FOUNDER
 Name: NiresVicente
-
 Rol: Operations Lead
-
 Social Media
-
 * Website   :  https://www.brutus.finance
 * Telegram  :  https://t.me/NiresVicente
 * Twitter   :  https://twitter.com/NiresVicente
 
-
-
-## TRON DEVELOPER
-
+# TRON DEVELOPER
 Name: Steven_Stc
-
 Rol: Technical Lead
-
 Social Media
-
 * Website   :  https://www.brutus.finance
 * Telegram  :  https://t.me/steven_stc
 * Twitter   :  https://twitter.com/steven_Cabr
@@ -40,14 +26,10 @@ Social Media
 
 
 
-## ENERGY BOT DEVELOPER
-
+# ENERGY BOT DEVELOPER
 Name: Deiiva
-
 Rol: Technical Lead
-
 Social Media
-
 * Website   :  https://www.brutus.finance
 * Telegram  :  https://t.me/Deiiva
 * Twitter   :  https://twitter.com/Miss_Deiva
