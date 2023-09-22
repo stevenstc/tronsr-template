@@ -14,7 +14,7 @@ Recompensas Generosas: Repartimos el 100% de las recompensas generadas a nuestro
 
 Con Brutus Finance y nuestra candidatura "Brutus_tron_staking", la comunidad hispanohablante y Tron avanzan juntos hacia un futuro descentralizado y recompensante.
 
-### BRUTUS.FINANCE - REDES
+# BRUTUS.FINANCE - REDES
 - [PAGINA WEB](https://brutus.finance)
 - [TWITTER](https://twitter.com/Brutusfinance)
 - [INSTAGRAM](https://www.instagram.com/brutusfinance/)
