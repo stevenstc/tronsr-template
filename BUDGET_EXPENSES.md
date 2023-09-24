@@ -1,5 +1,5 @@
 
-## Compromiso de Recompensa de Brutus Finance
+# Compromiso de Recompensa de Brutus Finance
 
 En Brutus Finance, creemos firmemente en la transparencia y la lealtad hacia nuestra comunidad. Por eso, nos comprometemos a distribuir el 100% de las recompensas generadas directamente a nuestros votantes. No retenemos ni un solo token para beneficio propio.
 

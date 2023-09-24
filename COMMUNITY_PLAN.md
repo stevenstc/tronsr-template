@@ -1,5 +1,5 @@
 
-Plan de Comunidad para Brutus Finance
+# Plan de Comunidad para Brutus Finance
 
 1. Canales de Comunicación: Establecer canales en Discord o Telegram para interacción directa y sesiones regulares de preguntas y respuestas (AMA).
 
