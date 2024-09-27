@@ -1,11 +1,53 @@
-## Founder
+# Co-fundador
 
-Stevene Cabrera Londoño
+DaLlRiUm
 
-## Administradora 
+Product Manager
 
-Andrea Tapasco Andica
+Social Media
 
-## Director de Marketing
+* Website   :  https://www.brutus.finance
+* Telegram  :  https://t.me/DaLlRiUm
 
-Juan david Lopez Lopez 
+# Co-fundador
+
+NiresVicente
+
+Operations Lead
+
+Social Media
+
+* Website   :  https://www.brutus.finance
+* Telegram  :  https://t.me/NiresVicente
+* Twitter   :  https://twitter.com/NiresVicente
+
+# Desarrollador de Tron
+
+Steven_Stc
+
+Technical Lead
+
+Social Media
+
+* Website   :  https://www.brutus.finance
+* Telegram  :  https://t.me/steven_stc
+* Twitter   :  https://twitter.com/steven_Cabr
+* Youtube   :  https://www.youtube.com/channel/UCBImqITHBD_aVzAu-AL8pTw
+* GitHub    :  https://github.com/stevenstc
+* Website   :  https://www.pesodigital.ml
+
+
+
+# Desarrolladora de Brutus Energy Bot
+
+Deiiva
+
+Technical Lead
+
+Social Media
+
+* Website   :  https://www.brutus.finance
+* Telegram  :  https://t.me/Deiiva
+* Twitter   :  https://twitter.com/Miss_Deiva
+
+
